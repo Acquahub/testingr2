@@ -10,7 +10,7 @@ function Screen1() {
     return(
         <div className={styles["Screen1"]}>
             
-<div id="text-1-8d02d91154794e7c87d04e91434516e8" className={styles["text-1-8d02d91154794e7c87d04e91434516e8"]} >[Text]</div>
+<div id="text-1-2539e06733c24481adf87d50fc5d83bb" className={styles["text-1-2539e06733c24481adf87d50fc5d83bb"]} >[Text]</div>
         </div>
     );
 }
